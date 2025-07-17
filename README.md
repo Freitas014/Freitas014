@@ -1,4 +1,4 @@
-## Howdy, me chamo Freitas014! 🐕  
+## Olá, me chamo Freitas014! 🐕  
 <div align="center">
   <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif" width="150px">
 </div>
