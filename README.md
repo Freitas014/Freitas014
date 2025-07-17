@@ -1,6 +1,6 @@
 ## Olá, me chamo Freitas014! 🐕  
 <div align="center">
-  <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif](https://tenor.com/pt-BR/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487)" width="150px">
+ <img src ="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif" width="250px">
 </div>
 
 ### Linguagens e Ferramentas que uso:
@@ -10,6 +10,8 @@
   <img align="center" alt="Freitas014-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Freitas014-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Freitas014-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Freitas014-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="Freitas014-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## 📊 Minhas Estatísticas:
