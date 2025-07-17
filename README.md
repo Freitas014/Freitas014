@@ -1,6 +1,6 @@
 ## Olá, me chamo Freitas014! 🐕  
 <div align="center">
-  <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif" width="150px">
+  <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif](https://tenor.com/pt-BR/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487)" width="150px">
 </div>
 
 ### Linguagens e Ferramentas que uso:
